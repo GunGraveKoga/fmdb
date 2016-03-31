@@ -1,4 +1,4 @@
-# FMDB (ObjFW implementation)
+# FMDB v1.5 (ObjFW implementation)
 
 This is an Objective-C wrapper around SQLite: http://sqlite.org/
 
